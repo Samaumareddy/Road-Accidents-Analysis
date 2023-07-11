@@ -11,7 +11,7 @@ INSIGHTS:
 - Current Year Casualties by Location & Day/Night.
 - Total Casualties by Total Accidents by Location.
    
-  USED POWER BI FUNCTIONALITIES:
+ USED POWER BI FUNCTIONALITIES:
   - Power Query for Data Cleaning.
   - Time Intelligence Function/Calendar Date Table.
   - Data Modelling for relationship btn multiple tables.
