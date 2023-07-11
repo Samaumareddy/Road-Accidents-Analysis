@@ -1,6 +1,7 @@
 #Road-Accidents-Analysis#
 
-REQUIREMENT: Clients wants to create a Road Accident Dashboard for Year 2021 and 2022  
+REQUIREMENT: Clients wants to create a Road Accident Dashboard for Year 2021 and 2022 
+
 INSIGHTS:
 - Primary KPT- Total Casualties and Total Accident values for Current Year(CY) and YoY growth.
 - Primary KPI'S- Total Casualties by Accident Severity for Current Year and YoY growth.
