@@ -1,3 +1,4 @@
+
 #Road-Accidents-Analysis#
 
 REQUIREMENT: Clients wants to create a Road Accident Dashboard for Year 2021 and 2022 
@@ -19,5 +20,5 @@ INSIGHTS:
   - Created Custom Columns and Measures.
   - KPI and advanced KPI Generations.
 
-![Screenshot 2023-07-11 163046](https://github.com/Samaumareddy/Road-Accidents-Analysis/assets/120989667/f23badbe-8f4b-4159-9605-366d01e39dbd)
+![Road Accident Analysis Dashboard_Screenshot ](https://github.com/Samaumareddy/Road-Accidents-Analysis/assets/120989667/bf756730-c08c-49cc-a7b8-7567aca5d7e7)
 
